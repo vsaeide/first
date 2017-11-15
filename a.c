@@ -9,7 +9,7 @@ int main()
 
 {
 
-
+printf("slam");
 return 0;
 
 }

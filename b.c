@@ -3,3 +3,10 @@
 
 
 
+int main(){
+
+
+
+
+printf("bye");
+}
