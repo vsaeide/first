@@ -7,6 +7,6 @@ int main(){
 
 
 
-
+printf("hi");
 printf("bye");
 }
